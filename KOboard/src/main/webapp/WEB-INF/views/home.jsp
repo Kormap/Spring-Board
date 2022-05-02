@@ -4,13 +4,16 @@
 
 <html>
 <head>
-	<title>Home</title>
+	<title>게시판</title>
 </head>
 <body>
 <h1>
-	Hello world!  
+  세번째 게시판 프로젝트
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+
+<p> <a href = "/board/list"> 게시물 목록 List</a></p>
+
 </body>
 </html>
