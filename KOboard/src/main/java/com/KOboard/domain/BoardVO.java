@@ -39,10 +39,10 @@ public class BoardVO {
 	public void setContent(String content) {
 		this.content = content;
 	}
-	public String getWriter() {
+	public String getwriter() {
 		return writer;
 	}
-	public void setWriter(String writer) {
+	public void setwriter(String writer) {
 		this.writer = writer;
 	}
 	public Date getRegDate() {
